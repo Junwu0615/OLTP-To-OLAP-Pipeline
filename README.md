@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/Technology-GCP-yellow.svg?style=plastic)](https://github.com/Junwu0615/OLTP-To-OLAP-Pipeline) <br>
 [![](https://img.shields.io/badge/Technology-Data_Lake-yellow.svg?style=plastic)](https://github.com/Junwu0615/OLTP-To-OLAP-Pipeline) 
 [![](https://img.shields.io/badge/Technology-Apache_Kafka-yellow.svg?style=plastic)](https://github.com/Junwu0615/OLTP-To-OLAP-Pipeline) 
+[![](https://img.shields.io/badge/Technology-Kubernetes-yellow.svg?style=plastic)](https://github.com/Junwu0615/OLTP-To-OLAP-Pipeline) 
 [![](https://img.shields.io/badge/Technology-Terraform-yellow.svg?style=plastic)](https://github.com/Junwu0615/OLTP-To-OLAP-Pipeline) <br>
 
 <br>
@@ -27,9 +28,11 @@ To be filled in
 |:--:|:--:|:--:|
 | Create Project | - | 2026-03-20 |
 | Continued Progress | [OLTP-OLAP-Unified-DB](https://github.com/Junwu0615/OLTP-OLAP-Unified-DB) | - |
-| Add CDC | 完全解耦 OLTP & OLAP | - |
+| Add CDC | By Docker ; 完全解耦 OLTP & OLAP | - |
 | Add Data Lake | - | - |
-| Add Kafka | By Docker | 緩衝 OLTP 寫入的壓力 |
+| Add Kafka | By Docker ; 緩衝 OLTP 寫入的壓力 | - |
+| Independent Simulation Data | By Machine | - | - |
+| Add Kubernetes | - | - |
 | Moving Services to the Cloud | GCP | - |
 | Benchmark | - | - |
 | Metrics | - | - |

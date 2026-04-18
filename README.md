@@ -25,16 +25,15 @@ To be filled in
 
 ### *A.　Current Progress*
 |**Item**|**Description**|**Finish Time**|
-|:--:|:--:|:--:|
+|--:|:--|:--:|
 | Create Project | - | 2026-03-20 |
 | Continued Progress | [OLTP-OLAP-Unified-DB](https://github.com/Junwu0615/OLTP-OLAP-Unified-DB) | - |
 | Add CDC | By Docker ; 完全解耦 OLTP & OLAP | - |
 | Add Data Lake | - | - |
 | Add Kafka | By Docker ; 緩衝 OLTP 寫入的壓力 | - |
 | Independent Simulation Data | By Machine | - | - |
-| Add Kubernetes | - | - |
-| Moving Services to the Cloud | GCP | - |
-| Benchmark | - | - |
-| Metrics | - | - |
+| Upload GCP | - | - |
+| Add Terraform | 基礎設施供應 : 負責變出資源。<br>ex：雲端開 VM、設定網路、建立 S3 Bucket ... | - |
+| Add Ansible | 組態管理 : 負責進入主機。<br>ex：安裝 Docker、設定權限、拉 Git 專案、啟動服務 ... | - |
 
 <br>
